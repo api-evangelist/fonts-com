@@ -1,0 +1,64 @@
+{
+    "name": "Fonts.com",
+    "description": "Fonts.com provides the biggest and best selection of high quality desktop and web fonts. Try, buy and download classics like Helvetica, Univers, Frutiger, Trade Gothic and Avenir along with popular new fonts like Soho and Neo. Find your type!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/790-fonts-com.jpg",
+    "tags": [
+        "api provider",
+        "content",
+        "font and web font service",
+        "fonts",
+        "have api",
+        "webdesign"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fonts-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Fonts.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/790-fonts-com.jpg",
+            "humanURL": "http:\/\/webfonts.fonts.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fonts-com-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fonts-com-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.fonts.com\/rest\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/twitter.com\/clearleap"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/product\/fonts-com-7"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.fonts.com\/web-fonts\/developers"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/Fontscom"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/webfonts.fonts.com"
+        }
+    ]
+}
